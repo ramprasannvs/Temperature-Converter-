@@ -64,8 +64,3 @@ Building this Temperature Converter was a rewarding experience, reinforcing my u
 
 This project was developed as part of my ongoing journey to enhance my web development skills, focusing on JavaScript and DOM manipulation.
 
-## Author
-
-- **Abhishek Gurjar**
-  - [GitHub Profile](https://github.com/abhishekboadgurjar)
-
