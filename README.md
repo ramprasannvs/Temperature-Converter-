@@ -47,15 +47,6 @@ To get started with the project, follow these steps:
 4. **Reset the fields** if you want to start a new conversion.
 
 
-
-## Live Demo
-
-You can check out the live demo of the Temperature Converter [here](https://abhishekboadgurjar.github.io/Temperature-Converter/).
-
-## Screenshots 
-![Screenshot 2024-08-18 111029](https://github.com/user-attachments/assets/8b644976-c30d-4235-8d81-8098277aca5a)
-
-
 ## Conclusion
 
 Building this Temperature Converter was a rewarding experience, reinforcing my understanding of JavaScript and how to create interactive web applications. I hope this project inspires you to explore further and build your own conversion tools. Happy coding!
